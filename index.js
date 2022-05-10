@@ -1,8 +1,8 @@
 
-function sum (x, y) {
-    let resultado = x+y;
-    return resultado;
-}
+// function sum (x, y) {
+//     let resultado = x+y;
+//     return resultado;
+// }
 
 function subs (x, y) {
     let resultado = x-y;
