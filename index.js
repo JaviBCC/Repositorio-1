@@ -1,6 +1,6 @@
 
-function sum (x, y) {
-    let resultado = x+y;
+function sum (x, y, z) {
+    let resultado = x+y+z;
     return resultado;
 }
 
